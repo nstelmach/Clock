@@ -1,0 +1,18 @@
+.lengthControl {
+  display: inline-block;
+  width: 250px;
+}
+button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.btnLevel {
+  display: inline-block;
+}
+
+.number {
+  width: 40px;
+}

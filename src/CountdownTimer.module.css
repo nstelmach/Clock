@@ -1,0 +1,18 @@
+.timeLeft {
+  font-family: digital;
+  font-size: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.countdownDanger {
+  font-family: digital;
+  font-size: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}

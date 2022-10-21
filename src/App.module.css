@@ -1,0 +1,31 @@
+.mainLabel {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.timer {
+  border: 7px solid #3a1313;
+  margin: 20px auto 10px auto;
+  width: 270px;
+  height: 160px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.timerControl button:active {
+  color: #3a1313;
+}
+
+.timerControl {
+  margin-top: 15px;
+}
+
+button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
